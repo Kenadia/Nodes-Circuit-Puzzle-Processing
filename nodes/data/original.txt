@@ -1,0 +1,410 @@
+---------  ---------
+|x o   o|  |XXO---O|
+|    x  |  |X++-XOO|
+|/      |  |/X+-++X|
+|       |  |O-+-+O||
+|o     x|  |O-O;X-X|
+---------  ---------
+TB 1b
+difficulty = 3.5 depth = 1 steps = 10 node score = 2
+time: 15
+personal rating: easy, average
+
+----------  ----------
+| x      |  |;X-XO--O|
+|  o     |  |O+O||XX||
+|   x  x |  ||||X++X||
+|    o / |  |||O-O|/||
+|  //   o|  |||//;|OO|
+|   //   |  |||;//X+X|
+|       x|  |O+-OX-+X|
+| x      |  |XX;O+-O;|
+|x    ///|  |X---X///|
+----------  ----------
+TB 2a-1
+difficulty = 9.9 depth = 7 steps = 22 node score = 4
+time: 148
+personal rating: hard, good
+
+----------  ----------
+|x      /|  |X--XO-O/|
+|     / /|  ||O-+O/|/|
+|x       |  |X+-+-X|*|
+|  x /   |  |\|XX/||*|
+|o      t|  |OO|T-++T|
+| t  /   |  ||T+T/||||
+|        |  ||T+--++T|
+|      o/|  |O-+--+O/|
+|/ x  x//|  |/\X--X//|
+----------  ----------
+CA 1d-1
+difficulty = 9.8 depth = 8 steps = 24 node score = 2
+time: 39
+personal rating: moderate, good
+
+----------  ----------
+|/     x/|  |/X---+X/|
+|/ //    |  |/|//O-+O|
+|/ x    o|  |/XXO+-+O|
+|/      /|  |/O+O|XX/|
+| o x x /|  |OO|X+X;/|
+|     / /|  |O-++O/;/|
+|/      /|  |/;XX;;;/|
+----------  ----------
+CA 2b-2
+difficulty = 12.1 depth = 9 steps = 28 node score = 4
+time: 146
+personal rating: moderate, good
+
+-----------  -----------
+|     x  t|  |\\X--XT-T|
+| t       |  |TT|**X+X||
+|t   t/   |  |T++-T/||||
+|  x      |  |X+X*T-T|||
+|   /     |  ||TT/*\\|||
+|        t|  |XXT----+T|
+|/ ///// /|  |/|/////|/|
+|o       /|  |O+----O|/|
+|     /   |  ||X--X/O+O|
+|      x  |  ||O--+OXX||
+|  //    o|  |||//|||OO|
+|       o |  |||\XXO+O\|
+|o  x     |  |OO\X--X;\|
+-----------  -----------
+CA 4a-4
+difficulty = 12.6 depth = 7 steps = 28 node score = 7
+time: 151
+personal rating: moderate, good
+
+-----------  -----------
+| t   ////|  |*T--T////|
+|   x  /  |  |*|XXTT/**|
+|/        |  |/T++++--T|
+|       / |  |\O++-|O/||
+|x   /  t |  |X++X/T+T||
+|  xo     |  |X+XO--OTT|
+| o     //|  |;O-O^^^//|
+-----------  -----------
+B-B 1-2
+difficulty = 10.2 depth = 6 steps = 26 node score = 4
+time: 137
+personal rating: moderate, good
+
+---------  ---------
+| t o o/|  |\TTO-O/|
+|      /|  |*T++T|/|
+|  t   /|  |XXT+T|/|
+| x     |  ||XXO-+O|
+| /x / o|  ||/XX/OO|
+|       |  |X--X\;;|
+---------  ---------
+B-t 1-1
+difficulty = 4.2 depth = 1 steps = 11 node score = 3
+time: 136
+personal rating: moderate, good
+
+-----------  -----------
+|///      |  |///;X--X;|
+|///   / /|  |///;|;/|/|
+|x     /  |  |X---X;/|.|
+|   // x  |  ||;.//;X+X|
+|     /   |  |X--X;/||||
+|    /    |  |;;.|/XX|||
+|  /   / x|  |;;/|.|/XX|
+|///    / |  |///X-X./.|
+-----------  -----------
+B-C 4-1
+difficulty = 8.1 depth = 5 steps = 18 node score = 4
+time: 90
+personal rating: easy/moderate, average
+
+-----------  -----------
+|//   /   |  |//.;./...|
+|//       |  |//.X--+X.|
+|/   / / /|  |/X-X/;/|/|
+|  /      |  |;|/O-OX+X|
+|         |  |.|X+X|||||
+|    x   x|  |.|||X+++X|
+|   o ox /|  |;||O-OXX/|
+|/x /     |  |/XX/;;;;;|
+-----------  -----------
+B-B 1-1
+difficulty = 8.5 depth = 6 steps = 20 node score = 3
+time: 76
+personal rating: moderate, poor/average
+
+----------
+|  x    /|
+|   o  x/|
+|    x  o|
+| x      |
+|  o     |
+|   x  //|
+----------
+CA 6
+difficulty = 8.1 depth = 5 steps = 18 node score = 4
+
+---------  ---------
+|  o   x|  |;;OOX-X|
+|  o    |  |XXO++O||
+|x      |  |X+-+X|||
+|o      |  |O|-+-O||
+|     t |  |O+-OTT||
+|  t    |  |\|T-+T||
+|   x   |  |\X+X|\||
+|/     x|  |/*T+TXX|
+|///   /|  |///X-X/|
+---------  ---------
+difficulty = 10.9 depth = 7 steps = 27 node score = 4
+my rating: 5
+
+-----------  -----------
+|/////    |  |/////XX*.|
+|/o    x  |  |/OOX-+X\;|
+|/     o  |  |/O++-+O^,|
+|/  x    /|  |/X+XO+O\/|
+|   o    /|  |\||OO|TT/|
+|       t/|  |X+-+-XTT/|
+|x   /////|  |XXOO/////|
+-----------  -----------
+difficulty = 9.7 depth = 6 steps = 21 node score = 5
+my rating: 4
+
+----------  ----------
+|x //////|  |XX//////|
+|  //////|  |||//////|
+|  x ////|  ||XX;////|
+| o  ////|  ||O+O////|
+|    x //|  |||X+X.//|
+| o    //|  ||OO|XX//|
+| /o / x |  ||/OO/XX;|
+|        |  |X-----X.|
+----------  ----------
+difficulty = 3.8 depth = 2 steps = 9 node score = 2
+my rating: 2
+
+---------  ---------
+|//     |  |//T--T\|
+|/  o  x|  |/O+OX+X|
+|x      |  |X++-++X|
+|      /|  |X++-X|/|
+|o    t/|  |O++OTT/|
+|    t//|  |OOT-T//|
+---------  ---------
+difficulty = 5.6 depth = 3 steps = 13 node score = 3
+my rating: 4
+
+-------------  -------------
+|//   x  o /|  |//X--XO-O;/|
+|// /     x |  |//|/.X+-+X.|
+|      o    |  |;;|O--OX+X;|
+| /  x   o /|  |;/X+XO-+O;/|
+| o    x  //|  |;O-++OXX;//|
+|/ /    ////|  |/|/|X-X////|
+|/    //////|  |/O-O;//////|
+-------------  -------------
+difficulty = 9.0 depth = 7 steps = 20 node score = 3
+my rating: 2
+
+-----------  -----------
+|/     ///|  |/X+--X///|
+|/   ox  /|  |/|\OOX-X/|
+|/     xx/|  |\|\|OOXX/|
+|/   t x  |  |/|T+T|X-X|
+|         |  |T+TO++O\||
+| x    o  |  ||XXTTOO\||
+|  x      |  ||*X+-+--X|
+|t   /////|  |T--T//\/\|
+-----------  -----------
+difficulty = 13.7 depth = 11 steps = 31 node score = 4
+my rating: 3.5
+(cleaned)
+
+----------  ----------
+|    /   |  |;;;;/XX.|
+|   o  x |  |;O-OX+X;|
+| o   x  |  |OOX++X;;|
+|  x   o/|  ||XXO+-O/|
+|    x   |  |O+OXX;|;|
+|/  xoo  |  |/X+XOO|;|
+|/      /|  |/;O-O||/|
+|/////  /|  |/////OO/|
+----------  ----------
+difficulty = 11.4 depth = 9 steps = 27 node score = 3
+my rating: 2
+
+-----------  -----------
+|t     /  |  |T-T\XX/\*|
+| o  x    |  ||O+OX+-X;|
+|  t    x |  |T+TO-|OXX|
+|    /    |  |^OO^/||;||
+|   /o    |  |^;|/O++O||
+|/      o |  |/X+-+XOO||
+| x       |  |\X+-+---X|
+|     //  |  |\\O-O//;;|
+-----------  -----------
+difficulty = 14.5 depth = 12 steps = 30 node score = 5
+my rating: 4.5
+
+-----------  -----------
+|x       /|  |XXT---T*/|
+| x    t  |  ||X++-XTT*|
+|  t   x  |  ||TTX-+X|*|
+|x   /   /|  |X+-X/|||/|
+|   /    /|  |TT\/\|||/|
+| o    x /|  ||OO\X+X|/|
+|     x/  |  |T++TXX/|*|
+|/        |  |/OOT---T\|
+-----------  -----------
+difficulty = 9.0 depth = 5 steps = 20 node score = 5
+my rating: 3
+
+----------  ----------
+|   t ///|  |XX*TT///|
+|x      t|  |X+-++XTT|
+|/ x     |  |/XXT+++T|
+|     x  |  |..|*|X|X|
+|   x   x|  |..|X+-+X|
+|// x    |  |//XXT-T*|
+----------  ----------
+difficulty = 8.5 depth = 7 steps = 20 node score = 2
+my rating: 2
+
+----------  ----------
+|/   o  /|  |/XX;O-O/|
+|x     o |  |X++-+XOO|
+|  x     |  |X|XO++-O|
+|  /  xx |  |;|/||XX;|
+|   o   x|  |;|;OO;XX|
+|/       |  |/X-----X|
+----------  ----------
+difficulty = 8.0 depth = 6 steps = 20 node score = 2
+my rating: 1.5
+
+----------  ----------
+|   x   /|  |;X-X;;;/|
+|    o  /|  |;|;|O-O/|
+|x       |  |X+-XO++O|
+|  ///o  |  |||///O+O|
+|       /|  |X+XO+O|/|
+|   o / /|  |O++O;/|/|
+|o       |  |O+++++O,|
+| xx /   |  |;XX;/;;;|
+----------  ----------
+difficulty = 10.5 depth = 9 steps = 25 node score = 2
+my rating: 2.5
+
+----------  ----------
+|/  x  o/|  |/;XXO-O/|
+|  x o  /|  |X-X|OO|/|
+|        |  ||;;X-+|X|
+|  ///   |  ||;///||||
+|        |  ||O---O|||
+| o o /  |  ||O-O;/|||
+|        |  ||X-+--+X|
+| x     /|  |XX;O--O/|
+----------  ----------
+difficulty = 10.5 depth = 8 steps = 25 node score = 3
+my rating: 2.5
+
+----------  ----------
+|x  x    |  |X--XO--O|
+|    o   |  ||O-+O;;||
+|      o |  |||;X-XOO|
+|  ///x  |  |||///X+X|
+|  /    x|  |||/;X-+X|
+|   o /  |  ||O-O|/|;|
+|        |  |XX;O+-O;|
+| x   /  |  |;X--X/;;|
+----------  ----------
+difficulty = 10.1 depth = 8 steps = 23 node score = 3
+my rating: 3
+
+----------  ----------
+|// x   /|  |//;X-X;/|
+|    o   |  |;X-XO+-O|
+|      / |  |;|O-O|/||
+|  o     |  |;|O--+O||
+|/ ///   |  |/|///||||
+|  x  x  |  |;|X--X|||
+|        |  |O+++--+O|
+|   o /  |  |O++O;/|,|
+|  x    /|  |X+XO--O/|
+| x//  //|  |XX//;;//|
+----------  ----------
+difficulty = 11.2 depth = 9 steps = 26 node score = 3
+my rating: 2 [should have someone test whether it's a good puzzle]
+
+----------  ----------
+|////  //|  |////XX//|
+|/  xx  /|  |/TTXX|*/|
+|       /|  |X++X.|./|
+|  t     |  |||T--+-T|
+|  /// x |  |||///XX||
+|        |  ||T---T|||
+|x    t  |  |XX***T+T|
+|  /  / /|  |*|/../|/|
+|/      /|  |/|X-+-X*|
+|/x  ////|  |/XX*////|
+----------  ----------
+difficulty = 11.2 depth = 8 steps = 26 node score = 4
+my rating: 2.5 [or higher, need to retest]
+
+-----------  -----------
+|t       t|  |T-------T|
+| /////// |  ||///////||
+| /x    / |  ||/X-++X/||
+| / t   / |  ||/|T-T|/||
+|         |  ||*X+XT|-T|
+| /  x  / |  ||/TTXX|/*|
+| /t  x / |  ||/T-TXX/*|
+| / / / / |  ||/*/|/*/'|
+|    t t  |  ||'*'T-T''|
+|         |  |T-----T''|
+-----------  -----------
+difficulty = 5.5 depth = 3 steps = 15 node score = 2
+my rating: 3
+
+----------  ----------
+|   x /  |  |X--X*/.*|
+|  /     |  ||./X--X*|
+| /     /|  ||/O--O|/|
+| /  /   |  ||/|*/||*|
+|x   xo  |  |X-+-XO|O|
+|o  /    |  |O-O/XX|||
+|    /x  |  |O--O/XX||
+|//     o|  |//'O---O|
+----------  ----------
+CG 3-7
+difficulty = 6.6 depth = 3 steps = 18 node score = 3
+could work as a beginner puzzle
+
+---------  ---------
+|/      |  |/X----X|
+|x  /// |  |X+X///||
+| x  o/ |  |XX|OO/||
+|/      |  |/O-+O;||
+|   o/x |  |O++O/XX|
+|o      |  |OOX--X;|
+---------  ---------
+B-C 3-1
+difficulty = 5.2 depth = 3 steps = 11 node score = 3
+easy, not too bad
+cleaned up
+
+-----------  -----------
+|//      x|  |//.;;;X-X|
+|///  / / |  |///XX/|/||
+| /   x   |  |;/;||X+-X|
+| x      /|  |;X-++X|./|
+|/  x     |  |/X-X|O+-O|
+|// /x  x |  |//;/X++X||
+|/   o    |  |/;;OO|XX||
+|      /  |  |O--++O/;||
+| // o   o|  ||//|O---O|
+|   o ////|  |O--O;////|
+-----------  -----------
+B-C 4-6
+difficulty = 5.0 depth = 2 steps = 15 node score = 2
+not too elegant but can work for next level above beginner
+cleaned a little
