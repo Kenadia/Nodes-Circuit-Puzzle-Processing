@@ -1,4 +1,4 @@
-by Ken Schiller
+All code by Ken Schiller.
 
 An interface written in Processing for the viewing, organization, design, play-test, solving, and export of node/circuit puzzles.
 
