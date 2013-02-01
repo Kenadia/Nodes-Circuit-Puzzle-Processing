@@ -7,11 +7,11 @@ Requires 256MB of memory.
 
 Controls
 - Scrolling (in main or grid view)
-  • click and drag:   scroll through puzzles
-  • shift + left:     scroll left
-  • shift + right:    scroll right
-  • shift + up:       fast scroll left
-  • shift + down:     fast scroll right
+  - click and drag:   scroll through puzzles
+  - shift + left:     scroll left
+  - shift + right:    scroll right
+  - shift + up:       fast scroll left
+  - shift + down:     fast scroll right
 – Shared controls
   • m:                swap marked puzzle with selected puzzle
   • i:                insert marked puzzle after selected puzzle
