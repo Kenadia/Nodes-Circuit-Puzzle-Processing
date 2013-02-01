@@ -1,6 +1,6 @@
 All code by Ken Schiller.
 
-An interface written in Processing for the viewing, organization, design, play-test, solving, and export of node/circuit puzzles.
+An interface written in Processing for the viewing, organization, design, play-test, solving, and export of my node/circuit puzzles. Solves puzzles using NodeModule.java, a compilation of code from the Java side of the project.
 
 Runs in Processing 1.5.1.
 Requires 256MB of memory.
